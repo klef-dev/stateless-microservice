@@ -1,6 +1,6 @@
-# Hackerbay Interview Backend Task
+# Nodejs stateless microservice
 
-## A simple stateless microservice in Nodejs with the following functionalities -
+## Functionalities
 
 Authentication
 JSON patching
